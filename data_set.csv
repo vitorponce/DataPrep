@@ -1,0 +1,105 @@
+ID;Q11;Q12;Q13;Q14;Q15;Q16;Q21;Q22;Q23;Q24A;Q24B;Q24C;Q24OUTRO;Q25;Q26;Q27;Q28;Q29;Q210A;Q210B;Q210C;Q210OUTRO;Q31;Q32;Q33;Q34;Q35;Q36;Q37;Q38;Q41;Q42;Q43A;Q43A;Q43B;Q43C
+1;9;8;8;8;9;9;9;9;9;compreendo;;;;8;8;2;7;8;contabilidade;fiscal;folha de pagamento;;9;8;8;7;7;7;7;8;de5a10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+2;9;8;8;8;9;8;9;9;9;outros meios;compreendo;;;9;8;1;8;9;contabilidade;fiscal;folha de pagamento;;9;8;8;9;5;8;9;5;menos1ano;nenhumescritorio;bom trabalho;relatorios;tecnologia;
+3;9;9;9;1;9;9;9;9;9;compreendo;;;;9;1;1;9;9;rh;fiscal;folha de pagamento;;9;7;7;6;6;6;7;6;de5a10anos;1a2escritorios;bom trabalho;amizade;;
+4;9;8;8;8;8;8;8;8;8;tempo;nao preciso;;;7;9;8;8;8;fiscal;;;;9;8;8;8;7;8;8;8;de5a10anos;maisde5escritorios;bom trabalho;tecnologia;amizade;
+5;9;9;9;9;9;9;9;9;9;compreendo;;;;9;7;9;9;9;contabilidade;fiscal;;;9;9;9;9;9;9;9;9;de3a5anos;1a2escritorios;bom trabalho;;;
+6;9;7;8;9;9;8;7;7;6;pouco conhecimento;outros;;;6;7;6;9;8;contabilidade;rh;folha de pagamento;;8;9;9;7;6;6;9;8;de5a10anos;1a2escritorios;bom trabalho;amizade;outro;confiabilidade
+7;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;folha de pagamento;;;;9;9;9;9;9;9;9;9;menos1ano;1a2escritorios;bom trabalho;prazo;amizade;
+8;9;9;9;8;9;8;5;4;3;tempo;pouco conhecimento;outros;dúvidas sore Imposto de Renda;9;8;1;5;4;contabilidade;consultoria empresarial;outro;;9;5;8;7;8;9;9;9;de1a3anos;1a2escritorios;bom trabalho;amizade;outro;Conhecimento dos Socios que ti
+9;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;9;1;9;9;9;de5a10anos;1a2escritorios;bom trabalho;;;
+10;8;8;8;7;8;8;8;8;8;compreendo;;;;7;7;2;6;8;contabilidade;fiscal;folha de pagamento;;7;7;7;3;5;6;7;6;de5a10anos;nenhumescritorio;bom trabalho;relatorios;amizade;
+11;9;9;9;9;9;9;7;7;7;outros;;;;9;9;3;9;9;contabilidade;fiscal;folha de pagamento;;9;5;9;7;1;3;9;9;menos1ano;nenhumescritorio;bom trabalho;prazo;outro;organização
+12;8;7;7;7;7;9;8;8;8;tempo;nao preciso;;;7;7;7;7;7;contabilidade;fiscal;folha de pagamento;;8;6;6;6;7;7;7;7;de3a5anos;1a2escritorios;bom trabalho;relatorios;;
+13;8;8;9;8;8;7;8;8;7;outros meios;compreendo;;;7;7;7;8;7;contabilidade;folha de pagamento;consultoria empresarial;;8;6;6;6;6;7;7;6;maisde10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+14;9;9;8;8;9;9;9;7;7;pouco conhecimento;;;;8;7;2;8;8;contabilidade;rh;consultoria empresarial;;6;7;8;6;7;6;8;5;de1a3anos;1a2escritorios;bom trabalho;relatorios;tecnologia;
+15;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;1;9;9;contabilidade;folha de pagamento;;;9;1;9;6;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+16;9;9;9;9;9;9;8;8;8;tempo;pouco conhecimento;;;8;9;1;9;8;contabilidade;fiscal;folha de pagamento;;9;9;9;8;8;8;8;9;de3a5anos;1a2escritorios;bom trabalho;prazo;;
+17;9;9;8;8;8;8;9;9;9;outros;;;;8;8;8;9;8;contabilidade;fiscal;folha de pagamento;;9;9;9;8;9;9;9;8;de5a10anos;nenhumescritorio;bom trabalho;;;
+18;9;9;9;9;9;9;9;9;9;pouco conhecimento;;;;9;9;9;9;9;contabilidade;fiscal;folha de pagamento;;9;1;9;1;1;1;9;9;menos1ano;nenhumescritorio;bom trabalho;;;
+19;9;8;8;8;9;9;5;5;5;outros;;;Consultoria Contábil;8;9;7;8;9;folha de pagamento;outro;;;5;9;9;9;1;8;9;1;menos1ano;1a2escritorios;bom trabalho;prazo;tecnologia;
+20;9;9;9;9;9;9;9;6;9;outros meios;nao preciso;compreendo;;9;6;9;9;9;contabilidade;;;;9;9;9;9;4;9;9;9;menos1ano;nenhumescritorio;bom trabalho;amizade;;
+21;8;8;7;7;7;4;9;9;8;nao preciso;compreendo;;;9;8;1;7;8;contabilidade;;;;9;9;9;7;7;7;9;9;de3a5anos;nenhumescritorio;bom trabalho;amizade;;
+22;9;9;9;8;8;8;8;8;8;compreendo;;;;8;9;6;8;8;contabilidade;fiscal;folha de pagamento;;9;8;8;8;8;8;8;9;de3a5anos;nenhumescritorio;bom trabalho;prazo;tecnologia;
+23;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;folha de pagamento;outro;;;7;9;9;9;8;9;9;9;maisde10anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+24;8;8;7;7;8;8;7;7;7;outros;;;;8;8;7;8;8;contabilidade;folha de pagamento;;;7;7;8;6;6;7;8;7;de1a3anos;1a2escritorios;bom trabalho;;;
+25;9;9;9;9;9;9;9;9;9;outros;;;;9;9;9;9;9;outro;;;;9;9;9;9;9;9;9;9;de5a10anos;nenhumescritorio;outro;;;
+26;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;7;8;9;fiscal;folha de pagamento;;;9;9;9;1;1;7;9;9;de5a10anos;1a2escritorios;bom trabalho;;;
+27;9;9;9;9;9;9;5;5;5;outros;;;;5;5;5;5;5;rh;;;;4;9;9;8;5;5;8;5;menos1ano;1a2escritorios;bom trabalho;;;
+28;9;8;6;7;7;8;8;7;7;tempo;pouco conhecimento;outros meios;;6;7;4;7;7;contabilidade;fiscal;consultoria empresarial;;8;6;7;6;6;6;7;5;de3a5anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+29;9;9;9;9;9;5;9;9;9;tempo;pouco conhecimento;nao preciso;;9;9;9;9;9;contabilidade;fiscal;consultoria empresarial;;9;9;9;9;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;tecnologia;amizade;
+30;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;rh;auditoria;folha de pagamento;;9;9;9;8;8;8;8;8;menos1ano;1a2escritorios;bom trabalho;amizade;;
+31;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;1;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;9;9;9;9;9;de5a10anos;1a2escritorios;bom trabalho;prazo;amizade;
+32;9;9;9;9;9;9;9;9;9;tempo;pouco conhecimento;compreendo;;9;6;1;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;5;5;9;9;9;maisde10anos;1a2escritorios;bom trabalho;prazo;amizade;
+33;8;8;8;8;8;8;8;8;8;compreendo;;;;8;5;1;8;8;contabilidade;;;;8;8;8;8;8;8;8;8;maisde10anos;1a2escritorios;bom trabalho;outro;;confiança
+34;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;contabilidade;;;;9;9;9;9;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;relatorios;amizade;
+35;9;9;9;9;9;9;9;9;9;outros;;;;8;9;9;9;9;contabilidade;fiscal;folha de pagamento;;5;5;8;5;5;7;7;6;de5a10anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+36;9;8;8;9;9;9;9;9;9;compreendo;;;;8;8;7;7;9;contabilidade;fiscal;;;8;7;7;5;3;4;9;9;de5a10anos;nenhumescritorio;bom trabalho;;;
+37;9;7;7;7;8;8;7;6;7;tempo;pouco conhecimento;outros meios;;7;6;3;5;6;contabilidade;rh;fiscal;;8;7;8;6;6;6;7;5;de3a5anos;1a2escritorios;bom trabalho;relatorios;tecnologia;
+38;9;9;9;8;8;9;8;8;8;pouco conhecimento;;;;8;8;8;8;8;contabilidade;fiscal;folha de pagamento;;9;9;9;9;9;8;9;6;de3a5anos;1a2escritorios;bom trabalho;;;
+39;9;9;9;9;9;5;9;9;9;tempo;pouco conhecimento;nao preciso;;9;9;9;9;9;contabilidade;fiscal;consultoria empresarial;;9;8;8;7;7;7;7;8;de5a10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+40;9;8;8;8;9;8;9;9;9;outros meios;compreendo;;;9;8;1;8;9;contabilidade;fiscal;folha de pagamento;;9;8;8;9;5;8;9;5;menos1ano;nenhumescritorio;bom trabalho;relatorios;tecnologia;
+41;9;9;8;8;8;8;9;9;9;outros;;;;8;8;8;9;8;contabilidade;fiscal;folha de pagamento;;9;7;7;6;6;6;7;6;de5a10anos;1a2escritorios;bom trabalho;amizade;;
+42;9;8;8;8;9;9;9;9;9;compreendo;;;;8;8;2;7;8;contabilidade;fiscal;folha de pagamento;;9;8;8;8;7;8;8;8;de5a10anos;maisde5escritorios;bom trabalho;tecnologia;amizade;
+43;9;8;8;9;9;9;9;9;9;compreendo;;;;8;8;7;7;9;contabilidade;fiscal;;;9;9;9;9;9;9;9;9;de3a5anos;1a2escritorios;bom trabalho;;;
+44;9;9;9;1;9;9;9;9;9;compreendo;;;;9;1;1;9;9;rh;fiscal;folha de pagamento;;8;9;9;7;6;6;9;8;de5a10anos;1a2escritorios;bom trabalho;amizade;outro;confiabilidade
+45;9;9;9;9;9;9;9;9;9;compreendo;;;;9;7;9;9;9;contabilidade;fiscal;;;9;9;9;9;9;9;9;9;menos1ano;1a2escritorios;bom trabalho;prazo;amizade;
+46;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;folha de pagamento;;;;9;5;8;7;8;9;9;9;de1a3anos;1a2escritorios;bom trabalho;amizade;outro;Conhecimento dos Socios que ti
+47;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;9;1;9;9;9;de5a10anos;1a2escritorios;bom trabalho;;;
+48;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;1;9;9;contabilidade;folha de pagamento;;;7;7;7;3;5;6;7;6;de5a10anos;nenhumescritorio;bom trabalho;relatorios;amizade;
+49;9;9;9;9;9;9;9;9;9;pouco conhecimento;;;;9;9;9;9;9;contabilidade;fiscal;folha de pagamento;;9;5;9;7;1;3;9;9;menos1ano;nenhumescritorio;bom trabalho;prazo;outro;organização
+50;9;9;9;9;9;9;9;6;9;outros meios;nao preciso;compreendo;;9;6;9;9;9;contabilidade;;;;8;6;6;6;7;7;7;7;de3a5anos;1a2escritorios;bom trabalho;relatorios;;
+51;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;folha de pagamento;outro;;;8;6;6;6;6;7;7;6;maisde10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+52;9;9;9;9;9;9;9;9;9;outros;;;;9;9;9;9;9;outro;;;;6;7;8;6;7;6;8;5;de1a3anos;1a2escritorios;bom trabalho;relatorios;tecnologia;
+53;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;7;8;9;fiscal;folha de pagamento;;;9;1;9;6;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+54;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;rh;auditoria;folha de pagamento;;9;9;9;8;8;8;8;9;de3a5anos;1a2escritorios;bom trabalho;prazo;;
+55;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;1;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;8;9;9;9;8;de5a10anos;nenhumescritorio;bom trabalho;;;
+56;9;9;9;9;9;9;9;9;9;tempo;pouco conhecimento;compreendo;;9;6;1;9;9;contabilidade;fiscal;folha de pagamento;;9;1;9;1;1;1;9;9;menos1ano;nenhumescritorio;bom trabalho;;;
+57;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;contabilidade;;;;5;9;9;9;1;8;9;1;menos1ano;1a2escritorios;bom trabalho;prazo;tecnologia;
+58;9;9;9;9;9;9;9;9;9;outros;;;;8;9;9;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;9;4;9;9;9;menos1ano;nenhumescritorio;bom trabalho;amizade;;
+59;8;8;7;7;7;4;9;9;8;nao preciso;compreendo;;;9;8;1;7;8;contabilidade;;;;9;9;9;7;7;7;9;9;de3a5anos;nenhumescritorio;bom trabalho;amizade;;
+60;9;8;8;8;8;8;8;8;8;tempo;nao preciso;;;7;9;8;8;8;fiscal;;;;9;8;8;8;8;8;8;9;de3a5anos;nenhumescritorio;bom trabalho;prazo;tecnologia;
+61;8;8;8;7;8;8;8;8;8;compreendo;;;;7;7;2;6;8;contabilidade;fiscal;folha de pagamento;;7;9;9;9;8;9;9;9;maisde10anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+62;8;8;8;8;8;8;8;8;8;compreendo;;;;8;5;1;8;8;contabilidade;;;;7;7;8;6;6;7;8;7;de1a3anos;1a2escritorios;bom trabalho;;;
+63;9;9;9;8;8;8;8;8;8;compreendo;;;;8;9;6;8;8;contabilidade;fiscal;folha de pagamento;;9;9;9;9;9;9;9;9;de5a10anos;nenhumescritorio;outro;;;
+64;8;7;7;7;7;9;8;8;8;tempo;nao preciso;;;7;7;7;7;7;contabilidade;fiscal;folha de pagamento;;9;9;9;1;1;7;9;9;de5a10anos;1a2escritorios;bom trabalho;;;
+65;9;9;9;9;9;9;8;8;8;tempo;pouco conhecimento;;;8;9;1;9;8;contabilidade;fiscal;folha de pagamento;;4;9;9;8;5;5;8;5;menos1ano;1a2escritorios;bom trabalho;;;
+66;9;9;9;8;8;9;8;8;8;pouco conhecimento;;;;8;8;8;8;8;contabilidade;fiscal;folha de pagamento;;8;6;7;6;6;6;7;5;de3a5anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+67;8;8;9;8;8;7;8;8;7;outros meios;compreendo;;;7;7;7;8;7;contabilidade;folha de pagamento;consultoria empresarial;;9;9;9;9;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;tecnologia;amizade;
+68;9;8;6;7;7;8;8;7;7;tempo;pouco conhecimento;outros meios;;6;7;4;7;7;contabilidade;fiscal;consultoria empresarial;;9;9;9;8;8;8;8;8;menos1ano;1a2escritorios;bom trabalho;amizade;;
+69;8;8;7;7;8;8;7;7;7;outros;;;;8;8;7;8;8;contabilidade;folha de pagamento;;;9;9;9;9;9;9;9;9;de5a10anos;1a2escritorios;bom trabalho;prazo;amizade;
+70;9;7;7;7;8;8;7;6;7;tempo;pouco conhecimento;outros meios;;7;6;3;5;6;contabilidade;rh;fiscal;;9;9;9;5;5;9;9;9;maisde10anos;1a2escritorios;bom trabalho;prazo;amizade;
+71;9;9;8;8;9;9;9;7;7;pouco conhecimento;;;;8;7;2;8;8;contabilidade;rh;consultoria empresarial;;8;8;8;8;8;8;8;8;maisde10anos;1a2escritorios;bom trabalho;outro;;CONFIANÇA
+72;9;9;9;9;9;9;7;7;7;outros;;;;9;9;3;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;9;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;relatorios;amizade;
+73;9;7;8;9;9;8;7;7;6;pouco conhecimento;outros;;;6;7;6;9;8;contabilidade;rh;folha de pagamento;;5;5;8;5;5;7;7;6;de5a10anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+74;9;8;8;8;9;9;5;5;5;outros;;;Consultoria Contábil;8;9;7;8;9;folha de pagamento;outro;;;8;7;7;5;3;4;9;9;de5a10anos;nenhumescritorio;bom trabalho;;;
+75;9;9;9;9;9;9;5;5;5;outros;;;;5;5;5;5;5;rh;;;;8;7;8;6;6;6;7;5;de3a5anos;1a2escritorios;bom trabalho;relatorios;tecnologia;
+76;9;9;9;8;9;8;5;4;3;tempo;pouco conhecimento;outros;dúvidas sore Imposto de Renda;9;8;1;5;4;contabilidade;consultoria empresarial;outro;;9;9;9;9;9;8;9;6;de3a5anos;1a2escritorios;bom trabalho;;;
+77;9;8;8;8;8;8;8;8;8;tempo;nao preciso;;;7;9;8;8;8;fiscal;;;;9;8;8;8;7;8;8;8;de5a10anos;maisde5escritorios;bom trabalho;tecnologia;amizade;
+78;9;9;8;8;9;9;9;7;7;pouco conhecimento;;;;8;7;2;8;8;contabilidade;rh;consultoria empresarial;;6;7;8;6;7;6;8;5;de1a3anos;1a2escritorios;bom trabalho;relatorios;tecnologia;
+79;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;contabilidade;;;;9;9;9;9;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;relatorios;amizade;
+80;9;9;9;9;9;9;9;9;9;outros;;;;8;9;9;9;9;contabilidade;fiscal;folha de pagamento;;5;5;8;5;5;7;7;6;de5a10anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+81;8;8;7;7;7;4;9;9;8;nao preciso;compreendo;;;9;8;1;7;8;contabilidade;;;;9;9;9;7;7;7;9;9;de3a5anos;nenhumescritorio;bom trabalho;amizade;;
+82;9;9;9;9;9;9;9;9;9;compreendo;;;;9;7;9;9;9;contabilidade;fiscal;;;9;9;9;9;9;9;9;9;de3a5anos;1a2escritorios;bom trabalho;;;
+83;9;9;9;9;9;9;9;9;9;outros;;;;9;9;9;9;9;outro;;;;9;9;9;9;9;9;9;9;de5a10anos;nenhumescritorio;outro;;;
+84;9;8;6;7;7;8;8;7;7;tempo;pouco conhecimento;outros meios;;6;7;4;7;7;contabilidade;fiscal;consultoria empresarial;;8;6;7;6;6;6;7;5;de3a5anos;1a2escritorios;bom trabalho;tecnologia;amizade;
+85;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;9;9;9;rh;auditoria;folha de pagamento;;9;9;9;8;8;8;8;8;menos1ano;1a2escritorios;bom trabalho;amizade;;
+86;9;9;9;8;9;8;5;4;3;tempo;pouco conhecimento;outros;dúvidas sore Imposto de Renda;9;8;1;5;4;contabilidade;consultoria empresarial;outro;;9;5;8;7;8;9;9;9;de1a3anos;1a2escritorios;bom trabalho;amizade;outro;Conhecimento dos Socios que ti
+87;9;9;9;9;9;9;5;5;5;outros;;;;5;5;5;5;5;rh;;;;4;9;9;8;5;5;8;5;menos1ano;1a2escritorios;bom trabalho;;;
+88;8;8;7;7;8;8;7;7;7;outros;;;;8;8;7;8;8;contabilidade;folha de pagamento;;;7;7;8;6;6;7;8;7;de1a3anos;1a2escritorios;bom trabalho;;;
+89;8;7;7;7;7;9;8;8;8;tempo;nao preciso;;;7;7;7;7;7;contabilidade;fiscal;folha de pagamento;;8;6;6;6;7;7;7;7;de3a5anos;1a2escritorios;bom trabalho;relatorios;;
+90;9;9;9;8;8;9;8;8;8;pouco conhecimento;;;;8;8;8;8;8;contabilidade;fiscal;folha de pagamento;;9;9;9;9;9;8;9;6;de3a5anos;1a2escritorios;bom trabalho;;;
+91;9;8;8;8;9;9;5;5;5;outros;;;Consultoria Contábil;8;9;7;8;9;folha de pagamento;outro;;;5;9;9;9;1;8;9;1;menos1ano;1a2escritorios;bom trabalho;prazo;tecnologia;
+92;9;9;9;9;9;9;9;6;9;outros meios;nao preciso;compreendo;;9;6;9;9;9;contabilidade;;;;9;9;9;9;4;9;9;9;menos1ano;nenhumescritorio;bom trabalho;amizade;;
+93;9;9;8;8;8;8;9;9;9;outros;;;;8;8;8;9;8;contabilidade;fiscal;folha de pagamento;;9;9;9;8;9;9;9;8;de5a10anos;nenhumescritorio;bom trabalho;;;
+94;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;7;8;9;fiscal;folha de pagamento;;;9;9;9;1;1;7;9;9;de5a10anos;1a2escritorios;bom trabalho;;;
+95;9;8;8;8;9;9;9;9;9;compreendo;;;;8;8;2;7;8;contabilidade;fiscal;folha de pagamento;;9;8;8;7;7;7;7;8;de5a10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+96;9;9;9;1;9;9;9;9;9;compreendo;;;;9;1;1;9;9;rh;fiscal;folha de pagamento;;9;7;7;6;6;6;7;6;de5a10anos;1a2escritorios;bom trabalho;amizade;;
+97;9;7;8;9;9;8;7;7;6;pouco conhecimento;outros;;;6;7;6;9;8;contabilidade;rh;folha de pagamento;;8;9;9;7;6;6;9;8;de5a10anos;1a2escritorios;bom trabalho;amizade;outro;confiabilidade
+98;9;9;9;9;9;9;9;9;9;compreendo;;;;9;9;1;9;9;contabilidade;fiscal;folha de pagamento;;9;9;9;9;9;9;9;9;de5a10anos;1a2escritorios;bom trabalho;prazo;amizade;
+99;8;8;8;7;8;8;8;8;8;compreendo;;;;7;7;2;6;8;contabilidade;fiscal;folha de pagamento;;7;7;7;3;5;6;7;6;de5a10anos;nenhumescritorio;bom trabalho;relatorios;amizade;
+100;9;9;9;9;9;9;7;7;7;outros;;;;9;9;3;9;9;contabilidade;fiscal;folha de pagamento;;9;5;9;7;1;3;9;9;menos1ano;nenhumescritorio;bom trabalho;prazo;outro;organização
+101;8;8;9;8;8;7;8;8;7;outros meios;compreendo;;;7;7;7;8;7;contabilidade;folha de pagamento;consultoria empresarial;;8;6;6;6;6;7;7;6;maisde10anos;nenhumescritorio;bom trabalho;prazo;amizade;
+102;9;8;8;8;9;8;9;9;9;outros meios;compreendo;;;9;8;1;8;9;contabilidade;fiscal;folha de pagamento;;9;8;8;9;5;8;9;5;menos1ano;nenhumescritorio;bom trabalho;relatorios;tecnologia;
+103;9;9;9;9;9;5;9;9;9;tempo;pouco conhecimento;nao preciso;;9;9;9;9;9;contabilidade;fiscal;consultoria empresarial;;9;9;9;9;9;9;9;9;maisde10anos;nenhumescritorio;bom trabalho;tecnologia;amizade;
+104;8;8;7;7;7;4;9;9;8;nao preciso;compreendo;;;9;8;1;7;8;contabilidade;;;;9;9;9;7;7;7;9;9;de3a5anos;nenhumescritorio;bom trabalho;amizade;;
